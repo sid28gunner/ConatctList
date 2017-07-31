@@ -1,1 +1,8 @@
 Welcome to Contact List
+
+1.Set up: Nodejs, Visual Studio Code, Angular CLI, Git
+  > ng new ContactManager --style=scss --routing
+  > ng serve
+  > ng build --prod
+  > ng 
+ 
